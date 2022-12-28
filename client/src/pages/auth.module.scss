@@ -1,0 +1,12 @@
+.container {
+  height: 100vh;
+  .form_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    @media only screen and (max-width: 768px) {
+      flex-direction: column;
+    }
+  }
+}
