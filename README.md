@@ -1,4 +1,4 @@
-# Todo App con Autenticación JWT
+# To-do App con Autenticación JWT
 
 Este proyecto es una aplicación de lista de tareas (todo app) con funcionalidad de autenticación JWT. El backend está construido con Node.js y MongoDB, mientras que el frontend utiliza React.
 
